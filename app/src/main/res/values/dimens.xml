@@ -1,0 +1,12 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- Custom screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin_small">8dp</dimen>
+    <dimen name="activity_bottom_margin">16dp</dimen>
+    <dimen name="textSize">15sp</dimen>
+    <dimen name="linear_bottom_margin">16dp</dimen>
+    <dimen name="linear_padding">8dp</dimen>
+    <dimen name="activity_check_box_padding">24dp</dimen>
+</resources>

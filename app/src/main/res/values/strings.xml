@@ -1,0 +1,25 @@
+<resources>
+<string name="app_name">QuizApp</string>
+<string name="question1">1. What Year Was The Club Established</string>
+<string name="question2">2. Which of these Managers managed Manchester United</string>
+<string name="question3">3. Which of these is another name used to refer to Manchester United Players</string>
+<string name="question4">4. At which stadium do Manchester United Play their Home Games?</string>
+<string name="question5">5. Which of the following players have Played for the Club</string>
+<string name="Submit">Submit Answers</string>
+    <string name="rb_1887">1887</string>
+    <string name="rb_1992">1992</string>
+    <string name="rb_1867">1867</string>
+    <string name="rb_redDevils">Red Devils</string>
+    <string name="rb_blueWasps">Blue Wasps</string>
+    <string name="rb_threeLions">Three Lions</string>
+    <string name="rb_oldTrafford">Old Trafford</string>
+    <string name="rb_stamfordBridge">Stamford Bridge</string>
+    <string name="rb_etihad">Etihad Stadium</string>
+    <string name="cb_davidMoyes">David Moyes</string>
+    <string name="cb_saf">Sir Alex Ferguson</string>
+    <string name="cb_arseneWenger">Arsene Wenger</string>
+    <string name="cb_poch">Mauricio Pochettino</string>
+    <string name="cb_dwight">Dwight Yorke</string>
+    <string name="cb_bob">Sir Bobby Charton</string>
+    <string name="willian">Willian</string>
+</resources>
