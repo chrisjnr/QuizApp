@@ -1,1 +1,1 @@
-Final Project For #ALCwithGoogle Udacity Course. it is a quiz on the premier League Club Manchester United, it makes use of views such as TextView, Buttons, RadioGroups, RadioButtons, ScrollView and Linearlayout
+Final Project For #ALCwithGoogle Udacity Course. It is a Quiz on the premier League Club Manchester United, it makes use of views such as TextView, Buttons, RadioGroups, RadioButtons, ScrollView and LinearLayout. It shows a toast message showing the score when the user submits the answers
